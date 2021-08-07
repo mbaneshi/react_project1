@@ -1,10 +1,9 @@
-import logo from './logo.svg';
-import './App.css';
+import AddUser from "./components/users/AddUser";
 
 function App() {
   return (
     <div>
-      <p>this is start of projects</p>
+      <AddUser/>
     </div>
   );
 }
